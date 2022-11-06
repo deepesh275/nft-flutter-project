@@ -144,7 +144,7 @@ class _InfoTile extends StatelessWidget {
         Text(subtitle,
         style: const TextStyle(
           color: Colors.white70,
-          fontSize: 16,
+          fontSize: 17,
         ),)
       ],
     );
